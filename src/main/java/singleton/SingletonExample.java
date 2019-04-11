@@ -3,6 +3,11 @@ package singleton;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Singleton design pattern
+ *
+ * @author eren
+ */
 public class SingletonExample {
 
     private static List<String> stringList;
